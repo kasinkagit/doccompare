@@ -1,0 +1,5 @@
+('C:\\Python35\\Scripts\\build\\textcompare_v10\\openpyxl-2.5.4-py3.5.egg',
+ None,
+ {'*.pyd', '*.pyo', '*.pyc', 'EGG-INFO', '*.py', '*.so'},
+ 'DATA',
+ [])
